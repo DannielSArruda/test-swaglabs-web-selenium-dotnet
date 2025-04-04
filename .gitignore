@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.log
+*.ncrunch*
+.vs/
+TestResults/
+*.dbmdl
+*.pdb
+*.opendb
